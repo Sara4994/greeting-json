@@ -7,7 +7,7 @@
   "start": "ChooseOnLanguage",
   "functions": [
     {
-      "name": "greetFunctions",
+      "name": "greetFunctions-test",
       "type": "custom",
       "operation": "sysout"
     }
